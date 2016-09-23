@@ -1,4 +1,7 @@
-#### MY RESUME 
+# MY RESUME 
 
 Profile
-=============
+-------------
+*	NAME
+*	BIRTHDAY
+*	ADDRESS
