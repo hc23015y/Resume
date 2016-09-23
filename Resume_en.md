@@ -1,4 +1,4 @@
-# Yang Yu-Xuan's Resume 
+<center># Yang Yu-Xuan's Resume</center> 
 
 Profile
 -------------
@@ -17,16 +17,3 @@ Skill
 
 Work Experience
 -------------
-
-
-: Sample grid table.
-
-+---------------+---------------+--------------------+
-| Fruit         | Price         | Advantages         |
-+===============+===============+====================+
-| Bananas       | $1.34         | - built-in wrapper |
-|               |               | - bright color     |
-+---------------+---------------+--------------------+
-| Oranges       | $2.10         | - cures scurvy     |
-|               |               | - tasty            |
-+---------------+---------------+--------------------+
