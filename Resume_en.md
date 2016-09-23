@@ -1,4 +1,4 @@
-# Yang Yu-Xuan's Resume 
+# <center>Yang Yu-Xuan's Resume</center>
 
 Profile
 -------------
