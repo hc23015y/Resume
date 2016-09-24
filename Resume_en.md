@@ -5,6 +5,7 @@ Profile
 *	NAME
 *	BIRTHDAY
 *	ADDRESS
+*	EMAIL
 
 Summary
 -------------
