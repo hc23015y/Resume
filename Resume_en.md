@@ -1,4 +1,4 @@
-# <center>Yang Yu-Xuan</center>
+# <center>Mordecai Yang</center>
 #### <center>No.31, Fuhua 8th St., Yongkang Dist., Tainan City 710, Taiwan (R.O.C.)</center>
 #### <center>+886 960 0220639 | fankyung@gmail.com</center>
 
